@@ -15,7 +15,12 @@
   border-radius: 10px;
   box-shadow: rgb(0, 0, 0) 5px 5px 10px;
 }
-
+.green{
+  background-color: rgb(122, 145, 127);
+}
+.white{
+  background-color: #c7cccb;
+}
 .driverContainer:first-of-type.App{
   margin-left: 100px;
 }
