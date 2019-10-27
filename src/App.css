@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+  /* background-color: #ffffff; */
+  height: 60%;
+  width: 20%;
+  min-width: 475px;
+  min-height: "300px";
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #c7cccb;
+  border-radius: 10px;
+  box-shadow: rgb(0, 0, 0) 5px 5px 10px;
+}
+
+.driverContainer:first-of-type.App{
+  margin-left: 100px;
 }
 
 .App-logo {
